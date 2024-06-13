@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Talisson, he/him, 25yo, living in Brasil 🇧🇷. Worked 5 years as a Full Stack Web Developr using Javascript and currently looking for a job.
+I'm Talisson, he/him, 25yo, living in Brasil 🇧🇷. Worked 5 years as a Full Stack Web Developer using Javascript and currently looking for a job.
 I have experience with Node.js, Vue.js, Neo4j, Google Cloud and Azure.
 I'm currently learning TypeScript and Go. Also always looking at new JS frameworks and Game Dev engines.
 
